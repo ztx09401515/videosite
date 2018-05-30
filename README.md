@@ -12,8 +12,8 @@
 ![index](resource/image/demo/index-drag-layer.gif)
 #### 搜索
 ![index](resource/image/demo/search-bar.gif)
-![index](resource/image/demo/search-bar2.gif)
-![index](resource/image/demo/search-bar3.gif)
+![index](resource/image/demo/search-bar-2.gif)
+![index](resource/image/demo/search-bar-3.gif)
 ![index](resource/image/demo/searchpage.gif)
 #### 播放器
 ![index](resource/image/demo/player.png)
