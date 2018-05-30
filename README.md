@@ -19,7 +19,6 @@
 ![index](resource/image/demo/player.png)
 ![index](resource/image/demo/player-danmu.gif)
 ![index](resource/image/demo/player-danmu2.gif)
-![index](resource/image/demo/player-danmu2.gif)
 #### 路由条件过滤
 ![index](resource/image/demo/series-index-router.gif)
 ![index](resource/image/demo/videotype-router.gif)
