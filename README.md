@@ -6,3 +6,5 @@
 
 videosite
 ![index](resource/image/demo/index.gif)
+![index](resource/image/demo/index-drag-layer.gif)
+
