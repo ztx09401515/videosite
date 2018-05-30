@@ -1,8 +1,8 @@
 # videosite
 ### 项目使用框架
-    `后端:` ssh(spring,springmvc,hibermate);
-    `数据库:` mySQL;
-    `前端:` express,react,react-router,react-redux;
+    后端: ssh(spring,springmvc,hibermate);
+    数据库: mySQL;
+    前端: express,react,react-router,react-redux;
    
 #### 导航
 ![index](resource/image/demo/index-nav-carousel.gif)
