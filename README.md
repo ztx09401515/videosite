@@ -24,4 +24,7 @@
 ![index](resource/image/demo/series-index-router.gif)
 ![index](resource/image/demo/videotype-router.gif)
 
+#### 翻页
+![index](resource/image/demo/book-flip-pagination.gif)
+
 
