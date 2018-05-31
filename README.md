@@ -3,7 +3,10 @@
     后端: ssh(spring,springmvc,hibermate);
     数据库: mySQL;
     前端: express,react,react-router,react-redux;
-   
+#### 部分自编写组件
+导航器:[https://github.com/ztx09401515/rc-nav](https://github.com/ztx09401515/rc-nav)  
+视频预览:[https://github.com/ztx09401515/rc-videoDscBox](https://github.com/ztx09401515/rc-videoDscBox)  
+history-util:[https://github.com/ztx09401515/history-util](https://github.com/ztx09401515/history-util)  
 #### 导航
 ![index](resource/image/demo/index-nav-carousel.gif)
 #### hover
